@@ -3,19 +3,13 @@
 
 
 ```
-
 ███████╗██████╗ ██╗    ██╗██╗███╗   ██╗    ██████╗  █████╗  ██████╗██╗  ██╗███████╗ ██████╗ ██████╗ 
-
 ██╔════╝██╔══██╗██║    ██║██║████╗  ██║    ██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██╔════╝██╔═══██╗
-
 █████╗  ██║  ██║██║ █╗ ██║██║██╔██╗ ██║    ██████╔╝███████║██║     ███████║█████╗  ██║     ██║   ██║
-
 ██╔══╝  ██║  ██║██║███╗██║██║██║╚██╗██║    ██╔═══╝ ██╔══██║██║     ██╔══██║██╔══╝  ██║     ██║   ██║
-
 ███████╗██████╔╝╚███╔███╔╝██║██║ ╚████║    ██║     ██║  ██║╚██████╗██║  ██║███████╗╚██████╗╚██████╔╝
-
 ╚══════╝╚═════╝  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ 
-
+```
 ```
 
 
@@ -161,29 +155,19 @@ const edwin = {
 
 
 
+---
+
 ## GitHub Stats
-
-
 
 <div align="center">
 
+![Edwin's GitHub Stats](https://github-readme-stats-li6u4p3gy-edwinpacheco888-6041s-projects.vercel.app/api?username=EdwinStrong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
+![Top Langs](https://github-readme-stats-li6u4p3gy-edwinpacheco888-6041s-projects.vercel.app/api/top-langs/?username=EdwinStrong&layout=compact&theme=tokyonight&hide_border=true)
 
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwinStrong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinStrong&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EdwinStrong  &theme=tokyonight&hide_border=true)
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=EdwinStrong&theme=tokyonight&hide_border=true)
 
 </div>
-
-
 
 ---
 
@@ -219,7 +203,7 @@ const edwin = {
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=EdwinStrong&style=flat-square&color=blueviolet" alt="Profile views" />
 
   
 
