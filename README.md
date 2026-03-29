@@ -161,9 +161,9 @@ const edwin = {
 
 <div align="center">
 
-![Edwin's GitHub Stats](https://github-readme-stats-li6u4p3gy-edwinpacheco888-6041s-projects.vercel.app/api?username=EdwinStrong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1)
+![Edwin's GitHub Stats](https://github-readme-stats-two-beige-11.vercel.app/api?username=EdwinStrong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=3)
 
-![Top Langs](https://github-readme-stats-li6u4p3gy-edwinpacheco888-6041s-projects.vercel.app/api/top-langs/?username=EdwinStrong&layout=compact&theme=tokyonight&hide_border=true&v=1)
+![Top Langs](https://github-readme-stats-two-beige-11.vercel.app/api/top-langs/?username=EdwinStrong&layout=compact&theme=tokyonight&hide_border=true&v=3)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EdwinStrong&theme=tokyonight&hide_border=true)
 
