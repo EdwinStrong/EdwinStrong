@@ -6,29 +6,13 @@
   <a href="mailto:edwinpacheco888@gmail.com">
     <img src="https://img.shields.io/badge/Email-edwinpacheco888@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/edwin-pacheco-eues/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://edwinstrong.github.io/github-pages/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/edwin-pacheco-">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
-
----
-
-### 🚀 About Me
-
-```
-┌─────────────────────────────────────────────────┐
-│  💻  Backend Developer  │  ☁️  Cloud Engineer   │
-│  📍  El Salvador, SV    │  🎓  UES - Systems    │
-│  🏆  CUM Honorífico    │  🔭  AI & Automation   │
-└─────────────────────────────────────────────────┘
-```
-
-> Building scalable web solutions & automating what shouldn't be manual
-
----
 
 ### 🛠️ Tech Stack
 
@@ -55,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwinStrong&theme=dracula&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwinStrong&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="streak graph" />
 </p>
 
 ---
@@ -64,23 +48,9 @@
 
 <!--START_SECTION:activity-->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdwinStrong&theme=dracula&hide_border=true&area=true&custom_title=Contribution+Graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdwinStrong&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution+Graph" alt="activity graph" />
 </p>
 <!--END_SECTION:activity-->
-
----
-
-### 📬 Let's Connect
-
-<p align="center">
-  <i>Open to opportunities & interesting projects</i>
-</p>
-
-<p align="center">
-  <a href="mailto:edwinpacheco888@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_talk-00D9FF?style=for-the-badge&logo=mailru&logoColor=white" />
-  </a>
-</p>
 
 ---
 
