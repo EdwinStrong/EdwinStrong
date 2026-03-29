@@ -1,212 +1,93 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey,+I'm+Edwin+👋;Backend+Developer+%7C+Cloud+Engineer" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="mailto:edwinpacheco888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-edwinpacheco888@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://edwinstrong.github.io/github-pages/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/edwin-pacheco-">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
+
+### 🚀 About Me
 
 ```
-███████╗██████╗ ██╗    ██╗██╗███╗   ██╗    ██████╗  █████╗  ██████╗██╗  ██╗███████╗ ██████╗ ██████╗ 
-██╔════╝██╔══██╗██║    ██║██║████╗  ██║    ██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██╔════╝██╔═══██╗
-█████╗  ██║  ██║██║ █╗ ██║██║██╔██╗ ██║    ██████╔╝███████║██║     ███████║█████╗  ██║     ██║   ██║
-██╔══╝  ██║  ██║██║███╗██║██║██║╚██╗██║    ██╔═══╝ ██╔══██║██║     ██╔══██║██╔══╝  ██║     ██║   ██║
-███████╗██████╔╝╚███╔███╔╝██║██║ ╚████║    ██║     ██║  ██║╚██████╗██║  ██║███████╗╚██████╗╚██████╔╝
-╚══════╝╚═════╝  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ 
-```
+┌─────────────────────────────────────────────────┐
+│  💻  Backend Developer  │  ☁️  Cloud Engineer   │
+│  📍  El Salvador, SV    │  🎓  UES - Systems    │
+│  🏆  CUM Honorífico    │  🔭  AI & Automation   │
+└─────────────────────────────────────────────────┘
 ```
 
-
-
-# Hey, I'm Edwin 👋
-
-
-
-**Systems Engineering** · El Salvador 🇸🇻  
-
-*Building scalable web solutions & automating what shouldn't be manual*
-
-
-[![Email](https://img.shields.io/badge/Email-edwinpacheco888@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edwinpacheco888@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel&logoColor=white)](https://edwinstrong.github.io/github-pages/)
-
-
-
-</div>
-
-
+> Building scalable web solutions & automating what shouldn't be manual
 
 ---
 
+### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,python,nodejs,aws,serverless,docker,mysql,postgres,redis,laravel,fastapi&perline=8" />
+</p>
 
-## About Me
-
-
-
-```typescript
-
-const edwin = {
-
-  role: "Systems Engineering",
-
-  location: "El Salvador 🇸🇻",
-
-  education: "Ingeniería en Sistemas Informáticos — UES",
-
-  currently: "Backend Developer",
-
-
-
-  focus: [
-
-    "Scalable web architectures",
-
-    "Business process automation",
-
-    "AI integrations (RAG, OCR)",
-
-    "Real-time systems via WebSockets",
-
-  ],
-
-
-
-  academic: "🏆 CUM Honorífico — UES FIA (2023–2024 & 2024–2025)",
-
-};
-
-```
-
-
+<p align="center">
+  <code>Hexagonal Architecture</code> ·
+  <code>DDD</code> ·
+  <code>Event-Driven</code> ·
+  <code>Serverless</code> ·
+  <code>DynamoDB</code> ·
+  <code>n8n</code>
+</p>
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-two-beige-11.vercel.app/api?username=EdwinStrong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=3" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-two-beige-11.vercel.app/api/top-langs/?username=EdwinStrong&layout=compact&theme=tokyonight&hide_border=true&v=3" height="180" alt="languages graph" />
+</p>
 
-## ⚡ Tech Stack
-
-
-
-### 🖥️ Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-### 🔧 Backend & Architecture
-
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-![Serverless](https://img.shields.io/badge/Serverless_v4-FD5750?style=flat-square&logo=serverless&logoColor=white)
-
-
-
-> Hexagonal Architecture · DDD · Event-Driven Architecture · DynamoDB Single Table Design
-
-
-
-### Cloud 
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
-
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
-![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-### Automation & Integrations
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-
-
-> RESTful APIs · CRM Integrations · AI (RAG + OCR)
-
-
-
-### Databases
-
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwinStrong&theme=dracula&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="streak graph" />
+</p>
 
 ---
 
+### 🔥 Recent Activity
 
-
----
-
-
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Edwin's GitHub Stats](https://github-readme-stats-two-beige-11.vercel.app/api?username=EdwinStrong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=3)
-
-![Top Langs](https://github-readme-stats-two-beige-11.vercel.app/api/top-langs/?username=EdwinStrong&layout=compact&theme=tokyonight&hide_border=true&v=3)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EdwinStrong&theme=tokyonight&hide_border=true)
-
-</div>
+<!--START_SECTION:activity-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdwinStrong&theme=dracula&hide_border=true&area=true&custom_title=Contribution+Graph" alt="activity graph" />
+</p>
+<!--END_SECTION:activity-->
 
 ---
 
+### 📬 Let's Connect
 
+<p align="center">
+  <i>Open to opportunities & interesting projects</i>
+</p>
 
-## 📬 Let's Connect
-
-
-
-<div align="center">
-
-
-
-| Platform | Link |
-
-|----------|------|
-
-| Email | [edwinpacheco888@gmail.com](mailto:edwinpacheco888@gmail.com) |
-
-
-
-*Open to opportunities & interesting projects*
-
-
-
-</div>
-
-
+<p align="center">
+  <a href="mailto:edwinpacheco888@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_talk-00D9FF?style=for-the-badge&logo=mailru&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EdwinStrong&style=flat-square&color=8B5CF6" alt="profile views" />
+</p>
 
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=EdwinStrong&style=flat-square&color=blueviolet" alt="Profile views" />
-
-  
-
-  *"Building things that matter, one commit at a time."*
-
-</div>
+<p align="center">
+  <i>Building things that matter, one commit at a time. ⚡</i>
+</p>
