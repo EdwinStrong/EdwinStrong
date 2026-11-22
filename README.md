@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend &amp; Cloud Engineer · Lead Developer</b><br />
-  Custom software on AWS
+  Custom cloud software on AWS
 </p>
 
 <p align="center">
