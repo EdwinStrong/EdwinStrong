@@ -24,9 +24,62 @@
 
 <h3 align="center">Stack</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,fastapi,nestjs,aws,dynamodb,postgres,docker,react,astro,git&perline=12" alt="Python, TypeScript, Node.js, FastAPI, NestJS, AWS, DynamoDB, PostgreSQL, Docker, React, Astro, Git" />
-</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br />
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br />
+        <sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br />
+        <sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br />
+        <sub><b>FastAPI</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br />
+        <sub><b>NestJS</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br />
+        <sub><b>AWS</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br />
+        <sub><b>DynamoDB</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br />
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br />
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br />
+        <sub><b>React</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" /><br />
+        <sub><b>Astro</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
+        <sub><b>Git</b></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <code>AWS Lambda</code> ·
